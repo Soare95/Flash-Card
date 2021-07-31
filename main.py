@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import 
 import pandas as pd
 import random
 
